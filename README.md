@@ -1,8 +1,8 @@
 # Certifications 2020 📜
-## Google
-## Coursera 
-## FutureLearn 
-## Cognitive Class
+### Google
+### Coursera 
+### FutureLearn 
+### Cognitive Class
 
 
 # Digital Badges 2020 📛
